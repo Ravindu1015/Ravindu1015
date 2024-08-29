@@ -6,14 +6,31 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 
 - **Name**: Ravindu Chandrarathna
 - **Location**: Sri Lanka
-- **Education**: Sabaragamuwa University of Sri Lanka
-- **Interests**: Software Development, Web Technologies, Open Source
+- **Education**: Software Engineering at Sabaragamuwa University of Sri Lanka
+- **Interests**: Software Development, Cybersecurity, Web Technologies, Open Source
+
+## 🎓 Education
+
+- **Sabaragamuwa University of Sri Lanka**
+  - *Software Engineering*, 2022 - Present
+  - Activities: IEEE Sabaragamuwa Section Volunteer, ICARC 2023 Conference Volunteer, COMURS 2024 Volunteer, Member of Sabaragamuwa University Buddhist Association, Faculty Coordinator of Zero Plastic Community
+  
+- **SITC Campus**
+  - *Diploma in Cyber Security and Ethical Hacking*, Jan 2023 - Aug 2023
+  - Grade: A+
+
+- **Nalanda College Colombo**
+  - *G.C.E. A/L Examination*, Sep 2017 - Dec 2020
+  - Subjects: Combined Mathematics (B), Physics (C), Information and Communication Technology (B)
+  - *G.C.E. O/L Examination*, Jan 2012 - Aug 2017
+  - Achievements: Passed with 8 A's and 1 B
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, HTML, CSS
+- **Languages**: JavaScript, HTML, CSS, Python
 - **Frameworks**: React, Tailwind CSS
 - **Tools**: Firebase, GitHub, VSCode
+- **Cybersecurity Skills**: Ethical Hacking, Cyber Forensics
 
 ## 📈 Contribution Stats
 
@@ -36,6 +53,7 @@ An engaging chat application designed for real-time messaging and interactive us
 ## 🏆 Achievements
 
 - **Quickdraw**: Awarded for exceptional contributions in quick problem-solving and coding challenges.
+- **Diploma in Cyber Security and Ethical Hacking**: Achieved with top grades.
 
 ## 🌟 Highlights
 
