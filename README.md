@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 ## 🚀 Popular Repositories
 
 ### [Profile2Career](https://github.com/Ravindu1015/Profile2Career)
-![Profile2Career](https://via.placeholder.com/150?text=Profile2Career)
+![Profile2Career](C:\Users\ravin\OneDrive\Desktop\myp1\image\p2c logo.png)
 A dynamic web application connecting job seekers and career opportunities. Built with React and Firebase, featuring user authentication, profile management, and a responsive design.
 
 ### [ELmanagement](https://github.com/Ravindu1015/ELmanagement)
