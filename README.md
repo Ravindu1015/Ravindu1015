@@ -27,7 +27,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="30" width="40" />
     </a>
     <a href="https://medium.com/@your-medium" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Profile" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/ravindu1015/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Profile" height="30" width="40" />
     </a>
   </p>
 </div>
