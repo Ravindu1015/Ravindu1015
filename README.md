@@ -62,11 +62,11 @@
 
 ## 🏆 Achievements
 - IEEE Sabaragamuwa Section Volunteer  
-- Won 1st Runner-Up at Mora UXplore 2.0  
+- Semi Finalist at Mora UXplore. 
 - Quickdraw Award for problem-solving and coding challenges  
 - Top Grade in Cyber Security Diploma  
 - Faculty Coordinator at Zero Plastic National Movement  
-- Completed the Stanford Code-in-Place Program
+- Semi Finalist at Brainstrom
 
 ---
 
