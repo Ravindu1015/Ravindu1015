@@ -1,30 +1,56 @@
-<div align="center">
-  <img src="path_to_your_gif.gif" style="width: 500px;" alt="Welcome GIF"/>
-</div>
+![My Image](https://images.pixexid.com/a-focused-coder-rapidly-types-lines-of-code-surrounded-by-streams-of-numbers-d-bt55rgzl.webp?h=700&q=70)
 
-<div align="center">
-  <h1>
-    <a href="https://github.com/Ravindu1015">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Ravindu+Chandrarathna">
-    </a>
-  </h1>
-</div>
+<h1 align="center">Hi 👋, I'm Ravindu Chandrarathna</h1>
+<h3 align="center">Building the Future with Technology</h3>
 
-<div align="center">
-  <h3>Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in Cybersecurity, Web Technologies, and Open Source Development. I’m currently pursuing my Software Engineering degree and continuously learning new skills to create impactful projects.</h3>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravindu1015&label=Profile%20views&color=0e75b6&style=flat" alt="Ravindu1015" /> </p>
+
+- 🔭 I’m currently working on [Profile2Career](https://github.com/Ravindu1015/Profile2Career) and [ELmanagement](https://github.com/Ravindu1015/ELmanagement)
+
+- 🌱 I’m currently learning **React, Firebase, Cybersecurity**
+
+- 📫 How to reach me **ravinduchan15@gmail.com**
+
+- ⚡ Fun fact **A cup of coffee is my best coding partner!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ravinduchandrarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravinduchandrarathna" height="30" width="40" /></a>
+<a href="mailto:ravinduchan15@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-ravinduchan15@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/tayyabadev/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+</p>
 
 ## 👨‍💻 About Me
 - **Name**: Ravindu Chandrarathna  
 - **Location**: Sri Lanka  
-- **Education**: Software Engineering at Sabaragamuwa University of Sri Lanka  
+- **Education**:  
+  - **Software Engineering** at Sabaragamuwa University of Sri Lanka  
 - **Experience**:  
   - Treasurer at Society of Computer Sciences - SUSL  
   - IEEE Volunteer  
   - Faculty Coordinator for Zero Plastic National Movement  
   - Freelance Translator at Appen  
   - Former Trainee at People's Bank  
-- **Interests**: Software Development, Cybersecurity, Web Technologies, Open Source, and Environmental Sustainability
+- **Interests**: Cybersecurity, Web Technologies, Open Source Development, Environmental Sustainability  
 
 ---
 
@@ -35,14 +61,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" />
 </div>
 
-### Languages  
+### Programming Languages  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" />
+  <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python&perline=4" />
 </div>
 
 ### Tools  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel&perline=4" />
 </div>
 
 ---
@@ -62,11 +88,11 @@
 
 ## 🏆 Achievements
 - IEEE Sabaragamuwa Section Volunteer  
-- Semi Finalist at Mora UXplore. 
+- Semi Finalist at Mora UXplore  
 - Quickdraw Award for problem-solving and coding challenges  
 - Top Grade in Cyber Security Diploma  
 - Faculty Coordinator at Zero Plastic National Movement  
-- Semi Finalist at Brainstrom
+- Semi Finalist at Brainstorm
 
 ---
 
@@ -87,7 +113,7 @@ A real-time messaging chat application with user-friendly features.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ravindu1015&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ravindu1015&langs_count=12&layout=compact&langs_count=8&theme=slateorange&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ravindu1015&langs_count=8&layout=compact&theme=slateorange&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
 
 <p align="center">
@@ -103,8 +129,5 @@ A real-time messaging chat application with user-friendly features.
   </a>
   <a href="mailto:ravinduchan15@gmail.com">
     <img src="https://img.shields.io/badge/-ravinduchan15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/tayyabadev/" target="blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"/>
   </a>
 </p>
