@@ -2,7 +2,7 @@
   <img src="https://images.pixexid.com/a-focused-coder-rapidly-types-lines-of-code-surrounded-by-streams-of-numbers-d-bt55rgzl.webp?h=700&q=70" alt="Coding image" width="800">
 </div>
 
-<h1 align="center">Hi 👋, I'm Ravindu Chandrarathna</h1>
+<h1 align="center">Hi 👋, I'm Ravindu Prabashwara Chandrarathna </h1>
 <h3 align="center">Building the Future with Technology</h3>
 
 <p align="center">
