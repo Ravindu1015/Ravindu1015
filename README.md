@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.pixexid.com/a-focused-coder-rapidly-types-lines-of-code-surrounded-by-streams-of-numbers-d-bt55rgzl.webp?h=700&q=70" alt="Coding image" width="800">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fproject-manager&psig=AOvVaw2dpYL4RH-bpAlaM8iBNSIP&ust=1734484978431000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDwmJ3SrYoDFQAAAAAdAAAAABAE" alt="Coding image" width="800">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ravindu Prabashwara Chandrarathna</h1>
