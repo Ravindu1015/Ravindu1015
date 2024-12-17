@@ -2,120 +2,107 @@
   <img src="https://images.pixexid.com/a-focused-coder-rapidly-types-lines-of-code-surrounded-by-streams-of-numbers-d-bt55rgzl.webp?h=700&q=70" alt="Coding image" width="800">
 </div>
 
-<h1 align="center">Hi 👋, I'm Ravindu Prabashwara Chandrarathna </h1>
-<h3 align="center">Building the Future with Technology</h3>
+<h1 align="center">Hi 👋, I'm Ravindu Prabashwara Chandrarathna</h1>
+<h3 align="center">Building the Future with Technology 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ravindu1015&label=Profile%20views&color=0e75b6&style=flat" alt="Ravindu1015" />
+  <img src="https://komarev.com/ghpvc/?username=Ravindu1015&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🔭 Currently Working On
-- [Profile2Career](https://github.com/Ravindu1015/Profile2Career): Connecting job seekers with career opportunities.
-- [ELmanagement](https://github.com/Ravindu1015/ELmanagement): E-library management platform for libraries.
+## 🔭 Current Projects
+- [**Profile2Career**](https://github.com/Ravindu1015/Profile2Career): Connecting job seekers with career opportunities.  
+- [**ELmanagement**](https://github.com/Ravindu1015/ELmanagement): E-library management platform with advanced features.  
 
-### 🌱 Learning & Exploring
-- **Topics**: React, Firebase, Cybersecurity
+## 🌱 Learning & Exploring
+- **Technologies**: React, Firebase, Cybersecurity  
+- **Current Focus**: Enhancing my expertise in full-stack development and cloud integrations.  
 
-### 📫 Reach Me At
-- **Email**: [ravinduchan15@gmail.com](mailto:ravinduchan15@gmail.com)
+## 🛠️ Skill Set
 
-### ⚡ Fun Fact
-- **Coffee** ☕ is my best coding partner!
+### Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" alt="Frontend Skills" />
+</p>
 
----
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python" alt="Programming Languages" />
+</p>
 
-<h2 align="left">👨‍💻 About Me</h2>
-<p align="left">I'm a passionate software engineering student at Sabaragamuwa University of Sri Lanka. I love exploring web technologies, contributing to open-source, and I’m deeply committed to environmental sustainability.</p>
-
-- **Name**: Ravindu Chandrarathna  
-- **Location**: Sri Lanka  
-- **Experience**:
-  - Treasurer at Society of Computer Sciences - SUSL
-  - IEEE Volunteer
-  - Faculty Coordinator for Zero Plastic National Movement
-  - Freelance Translator at Appen
-  - Former Trainee at People's Bank
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel" alt="Tools and Platforms" />
+</p>
 
 ---
 
-<h2 align="left">🛠️ Skill Set</h2>
+## 👨‍💻 About Me
 
-#### Frontend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" />
-</div>
+I'm a passionate **Software Engineering** student at **Sabaragamuwa University of Sri Lanka**. I love solving real-world problems using **technology**, contributing to **open-source projects**, and promoting **sustainability**.
 
-#### Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python" />
-</div>
-
-#### Tools & Platforms
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel" />
-</div>
+- **🌍 Location**: Sri Lanka  
+- **🎓 Education**:  
+   - *BSc in Software Engineering* @ Sabaragamuwa University of Sri Lanka (2022-Present)  
+   - *Diploma in Cyber Security* @ SITC Campus (Grade: A+)  
+- **🛡️ Roles & Experience**:  
+   - **IEEE Volunteer** & 1st Runner-Up at Mora UXplore  
+   - Treasurer, Society of Computer Sciences - SUSL  
+   - Faculty Coordinator, Zero Plastic National Movement  
+   - Former Trainee @ People's Bank  
 
 ---
 
-<h2 align="left">🎓 Education</h2>
-
-- **Sabaragamuwa University of Sri Lanka**  
-  *Software Engineering*, 2022 - Present  
-  - Activities: IEEE Volunteer, ICARC 2023 Volunteer, Member of University Buddhist Association
-  
-- **SITC Campus**  
-  *Diploma in Cyber Security and Ethical Hacking*, Jan 2023 - Aug 2023  
-  - Grade: A+
-  
-- **Nalanda College Colombo**  
-  *G.C.E. A/L*: Combined Mathematics, Physics, ICT
+## 🏆 Achievements
+- **Mora UXplore**: Semi-Finalist  
+- **Cyber Security Diploma**: Top Grade (A+)  
+- **Quickdraw Award**: Problem-solving and coding challenges  
+- **Zero Plastic National Movement**: Faculty Coordinator  
 
 ---
 
-<h2 align="left">🏆 Achievements</h2>
-
-- IEEE Sabaragamuwa Section Volunteer
-- Semi Finalist at Mora UXplore
-- Quickdraw Award for problem-solving and coding challenges
-- Top Grade in Cyber Security Diploma
-- Faculty Coordinator at Zero Plastic National Movement
-- Semi Finalist at Brainstorm
-
----
-
-<h2 align="left">💻 Projects</h2>
+## 💻 Projects Portfolio
 
 ### [Profile2Career](https://github.com/Ravindu1015/Profile2Career)
-A dynamic web application connecting job seekers with career opportunities. Built with React and Firebase, featuring user authentication and profile management.
+A dynamic web app connecting job seekers with employers using **React** & **Firebase**.  
+- User Authentication  
+- Profile Management  
 
 ### [ELmanagement](https://github.com/Ravindu1015/ELmanagement)
-An e-library management platform with features like member registration, item management, and report generation.
+A feature-rich **e-library management system**.  
+- Member Registration  
+- Report Generation  
 
 ### [Superchat-v1](https://github.com/Ravindu1015/Superchat-v1)
-A real-time messaging chat application with user-friendly features.
+Real-time messaging app with a clean and user-friendly interface.
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
-<div align="center">
+## 📊 GitHub Stats
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ravindu1015&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ravindu1015&langs_count=8&layout=compact&theme=slateorange&include_all_commits=true&count_private=true&hide_border=true" />
-</div>
+</p>
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ravindu1015&theme=rising-sun&hide_border=true&exclude_days=Sun" alt="GitHub Streak">
-</div>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ravindu1015&theme=rising-sun&hide_border=true" alt="GitHub Streak">
+</p>
 
 ---
 
-<h2 align="center">🤝 Connect with Me</h2>
+## 🤝 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravinduchandrarathna/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ravinduchandrarathna/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:ravinduchan15@gmail.com">
-    <img src="https://img.shields.io/badge/-ravinduchan15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+<p align="center">"Innovate, Code, and Inspire 🌟"</p>
