@@ -1,108 +1,73 @@
-<div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fproject-manager&psig=AOvVaw2dpYL4RH-bpAlaM8iBNSIP&ust=1734484978431000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDwmJ3SrYoDFQAAAAAdAAAAABAE" alt="Coding image" width="800">
+## Hi there! I'm Ravindu Chandrarathna 👋
+
+🌱 **Welcome to my GitHub space!**
+
+This is where ideas come to life, experiments take shape, and projects grow. Whether it's crafting innovative solutions or diving into new technologies, I'm passionate about expanding my skills and building impactful software.
+
+💡 Remember, every line of code is a step closer to mastery. Thanks for visiting and exploring my work!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravindu1015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Ravindu's%20GitHub%20Stats" alt="Ravindu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu1015&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 🚀 Interests
+
+- **Web Development**: Building engaging and user-friendly applications using modern tools and frameworks.
+- **Cyber Security**: Passionate about protecting systems, networks, and programs from digital attacks.
+- **Software Engineering**: Applying structured principles to design, develop, and test high-quality software.
+- **Project Management**: Enthusiastic about organizing and leading projects to successful completion.
+- **Business Intelligence**: Exploring data analytics and visualization techniques for informed decision-making.
+
+---
+
+## 🙋 My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>
 
-<h1 align="center">Hi 👋, I'm Ravindu Prabashwara Chandrarathna</h1>
-<h3 align="center">Building the Future with Technology 🚀</h3>
+</td><td valign="top" width="33%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ravindu1015&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### Backend  
+<div align="center">  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+</div>
 
----
+</td><td valign="top" width="33%">
 
-## 🔭 Current Projects
-- [**Profile2Career**](https://github.com/Ravindu1015/Profile2Career): Connecting job seekers with career opportunities.  
-- [**ELmanagement**](https://github.com/Ravindu1015/ELmanagement): E-library management platform with advanced features.  
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vite.png" alt="Vite" height="50" /></a>  
+</div>
 
-## 🌱 Learning & Exploring
-- **Technologies**: React, Firebase, Cybersecurity  
-- **Current Focus**: Enhancing my expertise in full-stack development and cloud integrations.  
+</td></tr></table>
 
-## 🛠️ Skill Set
+## 💍 Notable Projects
+- **Profile2Career**: A career guidance application for job seekers and providers, built with React, Firebase, and Tailwind CSS.
+- **VoluntHeart**: A volunteering platform that connects users with opportunities to make a difference.
+- **LMS**: A Learning Management System designed for seamless video playback, user management, and secure authentication.
 
-### Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" alt="Frontend Skills" />
-</p>
+## 💌 Let's Connect!  
+I'm always open to collaborating on innovative projects and sharing knowledge. Feel free to reach out!
 
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python" alt="Programming Languages" />
-</p>
+🔗 **[LinkedIn](https://linkedin.com/in/ravindu-chandrarathna)**  
+🔗 **[GitHub](https://github.com/Ravindu1015)**
 
-### Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel" alt="Tools and Platforms" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **Software Engineering** student at **Sabaragamuwa University of Sri Lanka**. I love solving real-world problems using **technology**, contributing to **open-source projects**, and promoting **sustainability**.
-
-- **🌍 Location**: Sri Lanka  
-- **🎓 Education**:  
-   - *BSc in Software Engineering* @ Sabaragamuwa University of Sri Lanka (2022-Present)  
-   - *Diploma in Cyber Security* @ SITC Campus (Grade: A+)  
-- **🛡️ Roles & Experience**:  
-   - **IEEE Volunteer** & 1st Runner-Up at Mora UXplore  
-   - Treasurer, Society of Computer Sciences - SUSL  
-   - Faculty Coordinator, Zero Plastic National Movement  
-   - Former Trainee @ People's Bank  
-
----
-
-## 🏆 Achievements
-- **Mora UXplore**: Semi-Finalist  
-- **Cyber Security Diploma**: Top Grade (A+)  
-- **Quickdraw Award**: Problem-solving and coding challenges  
-- **Zero Plastic National Movement**: Faculty Coordinator  
-
----
-
-## 💻 Projects Portfolio
-
-### [Profile2Career](https://github.com/Ravindu1015/Profile2Career)
-A dynamic web app connecting job seekers with employers using **React** & **Firebase**.  
-- User Authentication  
-- Profile Management  
-
-### [ELmanagement](https://github.com/Ravindu1015/ELmanagement)
-A feature-rich **e-library management system**.  
-- Member Registration  
-- Report Generation  
-
-### [Superchat-v1](https://github.com/Ravindu1015/Superchat-v1)
-Real-time messaging app with a clean and user-friendly interface.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ravindu1015&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ravindu1015&langs_count=8&layout=compact&theme=slateorange&include_all_commits=true&count_private=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ravindu1015&theme=rising-sun&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravinduchandrarathna/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="mailto:ravinduchan15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">"Innovate, Code, and Inspire 🌟"</p>
+Thanks for stopping by. Happy coding! 🚀💻
