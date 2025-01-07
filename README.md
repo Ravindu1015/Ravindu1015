@@ -1,4 +1,4 @@
-## Hi there! I'm Ravindu Chandrarathna 👋
+## Hi there! I'm Ravindu Prabashwara Chandrarathna 👋
 
 🌱 **Welcome to my GitHub space!**
 
